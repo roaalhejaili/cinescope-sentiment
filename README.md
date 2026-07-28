@@ -22,15 +22,15 @@ The rewriting stage was originally rule-based (keyword → canned sentence) and 
 
 **Negative review — all three models agree, each produces its own rewrite**
 
-![All models on a negative review](screenshots/negative-all-models.png)
+![All models on a negative review](screenshots/screenshotsnegative-all-models.png)
 
 **Mixed sentiment — praise is preserved, criticism is rephrased**
 
-![Mixed sentiment review](screenshots/mixed-sentiment.png)
+![Mixed sentiment review](screenshots/screenshotsmixed-sentiment.png)
 
 **Positive review — correctly identified, no rewrite triggered**
 
-![Positive review](screenshots/positive-no-rewrite.png)
+![Positive review](screenshots/screenshotspositive-no-rewrite.png)
 
 **Single-model view with confidence breakdown**
 
