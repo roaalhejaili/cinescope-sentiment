@@ -34,7 +34,7 @@ The rewriting stage was originally rule-based (keyword → canned sentence) and 
 
 **Single-model view with confidence breakdown**
 
-![Single model view](screenshots/single-model-confidence.png)
+![Single model view](screenshots/screenshotssingle-model-confidence.png)
 
 ---
 
